@@ -2,17 +2,16 @@
 description: test on github connection
 ---
 
-# Initial
+# cover
 
 Looking for an upgrade in gitbook.
 
 
 
- `\alpha` 
+ `\alpha $\alpha$`
 
 ```python
 import os
 import sys
-sys.
 ```
 
