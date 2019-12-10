@@ -1,12 +1,4 @@
----
-description: test on github connection
----
-
-# cover
-
-Looking for an upgrade in gitbook.
-
-
+# NaN
 
  `\alpha $\alpha$`
 

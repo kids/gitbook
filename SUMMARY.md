@@ -1,6 +1,6 @@
 # Table of contents
 
-* [cover](README.md)
+* [NaN](README.md)
 
 ## math
 
