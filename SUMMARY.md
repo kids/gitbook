@@ -1,14 +1,14 @@
 # Table of contents
 
-* [NaN](README.md)
+* [preamble](README.md)
 
 ## math
 
-* [atlas](math/atlas.md)
+* [optimization](math/atlas.md)
 
 ## Quant
 
-* [factor](quant/factor.md)
+* [macroeconomy](quant/factor.md)
 
 ## Video&Audio
 
