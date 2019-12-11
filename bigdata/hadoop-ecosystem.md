@@ -22,15 +22,15 @@ hue \(interface of all\)
 
 knox \(on Jetty, webui重定向,访问管理\)
 
-flume
+flume \(非侵入日志采集和消费\)
 
-storm
+storm - Jstorm -\|
 
 flink
 
 ganglia + nagios = ambari \(集群机器监控报警\)
 
-tez
+tez \(优化的mapred, java/hive..\)
 
 mapreduce -&gt; spark
 
