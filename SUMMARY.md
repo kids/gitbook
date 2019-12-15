@@ -2,23 +2,19 @@
 
 * [preamble](README.md)
 
-## math
+## engineering
 
-* [optimization](math/atlas.md)
+* [architecture](engineering/architecture/README.md)
+  * [Failure mode and Effects-analysis \(FMEA\)](engineering/architecture/untitled.md)
+  * [安全认证](engineering/architecture/an-quan-ren-zheng.md)
+  * [hadoop ecosystem](engineering/architecture/hadoop-ecosystem.md)
+* [algorithms](engineering/algorithms/README.md)
+  * [astronomy](engineering/algorithms/astronomy.md)
+  * [series similarity](engineering/algorithms/series-similarity.md)
+  * [i-vector](engineering/algorithms/untitled.md)
+  * [optimization](engineering/algorithms/atlas.md)
 
-## Quant
+## social science
 
-* [macroeconomy](quant/factor.md)
-
-## Video&Audio
-
-* [i-vector](video-and-audio/untitled.md)
-
-## BigData
-
-* [hadoop ecosystem](bigdata/hadoop-ecosystem.md)
-
-## architecture
-
-* [安全认证](architecture/an-quan-ren-zheng.md)
+* [macroeconomy](social-science/factor.md)
 
