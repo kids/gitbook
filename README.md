@@ -8,8 +8,6 @@
 }
 ```
 
- `\alpha $$\alpha$$`
-
 $$
 a = \alpha * \Sigma_x^e(y)
 $$
