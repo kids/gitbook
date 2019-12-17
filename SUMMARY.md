@@ -10,6 +10,7 @@
   * [hadoop ecosystem](engineering/architecture/hadoop-ecosystem.md)
 * [algorithms](engineering/algorithms/README.md)
   * [paper notes](engineering/algorithms/paper-notes/README.md)
+    * [Learning Deep Networks from Noisy Labels with Dropout Regularization](engineering/algorithms/paper-notes/learning-deep-networks-from-noisy-labels-with-dropout-regularization.md)
     * [DECADE\_A\_Deep\_Metric\_Learning\_Model\_for\_Multivariate\_Time\_Series](engineering/algorithms/paper-notes/decade_a_deep_metric_learning_model_for_multivariate_time_series.md)
   * [astronomy](engineering/algorithms/astronomy.md)
   * [series similarity](engineering/algorithms/series-similarity.md)
