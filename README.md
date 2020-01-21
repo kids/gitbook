@@ -14,6 +14,8 @@ $$
 
 **PID**
 
+e\(t\) - 追踪误差
+
 $$
 u(t) = K_p e(t) + K_i \int_{0}^{t} e(t)dt + K_d {de}/{dt}
 $$
