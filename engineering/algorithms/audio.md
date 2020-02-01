@@ -17,7 +17,7 @@ Speaker verification\[S. Furui, 1981; D. A. Reynolds, 2003\]：to verify a speec
 
 i-vector \[N. Dehak, 2011\] 
 
-𝑀 = 𝑚 + 𝑇w, T is a low rank 𝐶𝐹 × 𝑅 subspace that contains the eigenvectors with the largest eigenvalues of total variability covariance matrix. w~𝑁\(0,𝐼\)
+𝑀 = 𝑚 + 𝑇w, T is a low rank 𝐶𝐹 × 𝑅 subspace that contains the eigenvectors with the largest eigenvalues of **total variability \(tv\) covariance matrix**. w~𝑁\(0,𝐼\)
 
 
 
