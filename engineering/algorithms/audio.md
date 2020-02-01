@@ -37,9 +37,9 @@ speaker diarization
 
 声纹识别\(VPR\)
 
-GMM-UBM\(Universal Background Model, 通用背景模型\) -&gt;
+GMM-UBM\(Universal Background Model, 通用背景模型\) -&gt;Joint Factor Analysis, JFA算法 -&gt; 全变量系统\(Total Variability\) -&gt; i-vector
 
-Joint Factor Analysis, JFA算法 -&gt; 全变量系统\(Total Variability\) -&gt; i-vector
+via 人脸识别: Triplet loss, center loss etc.
 
 ### 音色与频率
 
