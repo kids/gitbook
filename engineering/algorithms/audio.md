@@ -27,6 +27,8 @@ i-vector \[N. Dehak, 2011\]
 
 Speaker verification \(SV\) is the process of verifying whether an utterance belongs to a specific speaker, based on that speaker’s known utterances \(i.e., enrollment utterances\), with applications such as Voice Match.
 
+浊音的前三个共振峰（formant）对说话人个性特征体现较明显，而前两个对于区别语音内容体现明显。
+
 Depending on the restrictions of the utterances used for enrollment and verification, speaker verification models usually fall into one of two categories: text-dependent speaker verification \(TD-SV\) and text-independent speaker verification \(TI-SV\).
 
 speaker recognition
@@ -63,7 +65,11 @@ Noise-Estimation Algorithms
 
 ### 音频特征 [python](https://www.kaggle.com/varanr/audio-feature-extraction)
 
-**功率谱密度与频率关系** （粉红噪音-低频高功率）
+**功率谱密度与频率关系** （粉红噪音-低频高功率，清音功率远小于浊音）
+
+**Formant \(共振峰\)** - \(基频 - 谐振，泛音主要频率峰\)
+
+**Pitch（基频）**- 声带振动 - 准周期浊音（vs清音，声带不振动，元音都是浊音，辅音都有）
 
 **光谱质心**
 
