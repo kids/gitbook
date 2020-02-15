@@ -9,17 +9,7 @@
 * PyAstronomy
 * pyAudioAnalysis
 
-### [i-vector](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/c/cb/131104-ivector-microsoft-wj.pdf)
-
-GMM-UBM framework \[D. A. Reynolds, 2000\]
-
-Speaker verification\[S. Furui, 1981; D. A. Reynolds, 2003\]：to verify a speech utterance belongs to a specified enrollment, accept or reject.
-
-i-vector \[N. Dehak, 2011\] 
-
-𝑀 = 𝑚 + 𝑇w, T is a low rank 𝐶𝐹 × 𝑅 subspace that contains the eigenvectors with the largest eigenvalues of **total variability \(tv\) covariance matrix**. w~𝑁\(0,𝐼\)
-
-
+### 
 
 ### Music information retrieval \(MIR\)
 
@@ -39,13 +29,24 @@ speaker diarization
 
 声纹识别\(VPR\)
 
-GMM-UBM\(Universal Background Model, 通用背景模型\) -&gt;Joint Factor Analysis, JFA算法 -&gt; 全变量系统\(Total Variability\) -&gt; i-vector
+[i-vector](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/c/cb/131104-ivector-microsoft-wj.pdf) \[N. Dehak, 2011\]; GMM-UBM framework \[D. A. Reynolds, 2000\] GMM-UBM\(Universal Background Model, 通用背景模型\) -&gt;Joint Factor Analysis, JFA算法 -&gt; 全变量系统\(Total Variability\) -&gt; i-vector  
+𝑀 = 𝑚 + 𝑇w, T is a low rank 𝐶𝐹 × 𝑅 subspace that contains the eigenvectors with the largest eigenvalues of **total variability \(tv\) covariance matrix**. w~𝑁\(0,𝐼\)
 
-via 人脸识别: Triplet loss, center loss etc.
+DNN : x-vector, \(via 人脸识别\) Triplet loss, center loss etc.  
+Margin Loss such as ASoftmax/ArcSoftmax\(均匀超球面类间距\)
 
-### 音色与频率
+声纹反作弊
 
-谐波
+ref:  
+音色与频率: 谐波
+
+### 语音理解、生成
+
+Connectionist Temporal Classification \(CTC\): TDNN \(OCR task as example\)
+
+TTS: WaveNet \(NN vocoder\) to TocoTron2 \(32X32X2 to 128X128X2\) to WaveRNN \(1-D conv to RNN, only relying on the last sample\) to LPCNet \(a WaveRNN variant, efficient speech synthesis\)、LAS \(Listen, Attend and Spell\) network
+
+语音转化/转写 - Voice Conversion: StarGAN
 
 ### 音频质量 audio quality
 
