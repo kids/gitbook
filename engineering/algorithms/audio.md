@@ -56,7 +56,7 @@ looking for a NR\(Non reference\) implementation
 
 Mean Opinion Score \(MOS\)
 
-信噪比估计 PyAstronomy
+信噪比估计 PyAstronomy, WADA SNR est
 
 Noise-Estimation Algorithms
 
