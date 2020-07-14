@@ -8,6 +8,7 @@
   * [Failure mode and Effects-analysis \(FMEA\)](engineering/architecture/failure-mode-and-effects-analysis-fmea.md)
   * [安全认证](engineering/architecture/an-quan-ren-zheng.md)
   * [hadoop ecosystem](engineering/architecture/hadoop-ecosystem.md)
+  * [amap&soso.tsv](engineering/architecture/amap-and-soso.tsv.md)
 * [algorithms](engineering/algorithms/README.md)
   * [paper notes](engineering/algorithms/paper-notes/README.md)
     * [Learning Deep Networks from Noisy Labels with Dropout Regularization](engineering/algorithms/paper-notes/learning-deep-networks-from-noisy-labels-with-dropout-regularization.md)
