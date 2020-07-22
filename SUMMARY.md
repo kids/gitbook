@@ -16,6 +16,7 @@
   * [astronomy](engineering/algorithms/astronomy.md)
   * [series similarity](engineering/algorithms/series-similarity.md)
   * [audio](engineering/algorithms/audio.md)
+  * [graph](engineering/algorithms/graph.md)
   * [optimization](engineering/algorithms/atlas.md)
 
 ## social science
