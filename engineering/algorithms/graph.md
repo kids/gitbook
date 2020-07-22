@@ -29,3 +29,11 @@ CBR \(amap, unknown\)
 
 
 
+## Graph Networks
+
+Relational inductive biases, deep learning, and graph networks \(by Deepmind, review, without laplacian\)
+
+
+
+
+
