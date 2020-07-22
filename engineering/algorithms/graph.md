@@ -22,3 +22,10 @@ Katz similarity
 
 
 
+## Route Planning
+
+CH \(_contraction hierarchies_, code as OSRM\)  
+CBR \(amap, unknown\)
+
+
+
