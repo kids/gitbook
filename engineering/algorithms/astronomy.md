@@ -12,3 +12,9 @@ Least-squares spectral analysis \(LSSA\)
 
 Lomb Scargle method
 
+[波长定标](http://phylab.fudan.edu.cn/doku.php?id=exp:common:dsydb) 
+
+背景輻射\(background radiation\)=本底輻射 -&gt; 减本底
+
+点扩展函数\(point spread function, PSF\)
+
