@@ -17,6 +17,7 @@
   * [causal](engineering/algorithms/causal.md)
   * [series](engineering/algorithms/series-similarity.md)
   * [audio](engineering/algorithms/audio.md)
+  * [growth](engineering/algorithms/growth.md)
   * [graph](engineering/algorithms/graph.md)
   * [optimization](engineering/algorithms/atlas.md)
 

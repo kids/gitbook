@@ -1,6 +1,6 @@
 # series
 
-## similarity
+## series similarity
 
 #### Algorithms:
 
@@ -17,4 +17,15 @@
 > Auto Correlation based Similarity\(ACF\)
 
 
+
+## Trajectory Compression​
+
+Minimal Description Language ​   
+Douglas-Peucker algorithm​ \(reducing the number of points in a curve\)
+
+
+
+## Trajectory embedding
+
+​
 
