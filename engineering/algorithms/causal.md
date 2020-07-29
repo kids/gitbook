@@ -4,9 +4,11 @@ description: 因果分析
 
 # causal
 
-Causal Tree直接估计模型：直接对treatment effect进行建模
+Response model -&gt; Uplift Model \(CVR提升\)
 
-Meta Learner间接估计的一种：对response effect\(target\)进行建模，用treatment带来的target变化作为HTE\(Hetergeneous Treatment Effect\)的估计。主要方法有3种:T\(wo\)-Learner, S\(ingle\)-Learner, X-Learner，思路相对比较传统的是在监督模型的基础上去近似因果关系。
+Causal Tree, 直接估计模型：直接对treatment effect进行建模 \(ICDM2010\)
+
+Meta Learner, 间接估计的一种：对response effect\(target\)进行建模，用treatment带来的target变化作为HTE\(Hetergeneous Treatment Effect\)的估计。主要方法有3种:T\(wo\)-Learner, S\(ingle\)-Learner, X-Learner，思路相对比较传统的是在监督模型的基础上去近似因果关系。
 
 Y是实验影响的核心指标  
 T是treatment，通常是0/1变量，代表样本进入实验组还是对照组，对随机AB实验  

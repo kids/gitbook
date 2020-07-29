@@ -29,3 +29,11 @@ Douglas-Peucker algorithm​ \(reducing the number of points in a curve\)
 
 ​
 
+## Ornstein-Uhlenbeck process
+
+sigma = 1. \# Standard deviation.   
+mu = 10. \# Mean.   
+tau = .05 \# Time constant.   
+solution of the Langevin equation   
+Euler-Maruyama method, a simple generalization to SDEs of the Euler method for ODEs.
+
