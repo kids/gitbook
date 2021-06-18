@@ -25,3 +25,10 @@
 
 * [macroeconomy](social-science/factor.md)
 
+## thoughts
+
+* [life](thoughts/on-life-experience/README.md)
+  * [self-actualization](thoughts/on-life-experience/untitled.md)
+* [biz](thoughts/biz/README.md)
+  * [data platform](thoughts/biz/on-data-platform.md)
+
