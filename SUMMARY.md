@@ -24,6 +24,8 @@
 ## social science
 
 * [macroeconomy](social-science/factor.md)
+* [japan](social-science/japan/README.md)
+  * [90年代日本股市](social-science/japan/90-nian-dai-ri-ben-gu-shi.md)
 
 ## thoughts
 
