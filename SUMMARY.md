@@ -20,6 +20,7 @@
   * [growth](engineering/algorithms/growth.md)
   * [graph](engineering/algorithms/graph.md)
   * [optimization](engineering/algorithms/atlas.md)
+* [py](engineering/py.md)
 
 ## social science
 
@@ -33,4 +34,6 @@
   * [self-actualization](thoughts/on-life-experience/untitled.md)
 * [biz](thoughts/biz/README.md)
   * [data platform](thoughts/biz/on-data-platform.md)
+  * [report abstract](thoughts/biz/report-abstract.md)
+  * [PS](thoughts/biz/ps.md)
 
