@@ -40,7 +40,7 @@ logging
 import logging == import logging; logging.basicConfig\(\)   
 所以如果每个类**getLogger**\(\)不同的name相当于各自实例化一个自己的logger
 
-  
+项目架构，抽象类  
   
 
 

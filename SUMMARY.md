@@ -4,8 +4,8 @@
 
 ## engineering
 
-* [algorithms](engineering/algorithms.md)
 * [architecture](engineering/architecture/README.md)
+  * [py](engineering/architecture/py.md)
   * [Failure mode and Effects-analysis \(FMEA\)](engineering/architecture/failure-mode-and-effects-analysis-fmea.md)
   * [安全认证](engineering/architecture/security.md)
   * [video/image quality](engineering/architecture/video-image-quality.md)
@@ -23,13 +23,7 @@
   * [graph](engineering/algorithms-1/graph.md)
   * [pharmacy](engineering/algorithms-1/pharmacy.md)
   * [series similarity](engineering/algorithms-1/series-similarity-1.md)
-
----
-
-* [architecture](architecture-1/README.md)
-  * [Failure Mode and Effects Analysis \(FMEA\)](architecture-1/failure-mode-and-effects-analysis-fmea/README.md)
-    * [optimization](architecture-1/failure-mode-and-effects-analysis-fmea/atlas.md)
-  * [py](architecture-1/py.md)
+  * [optimization](engineering/algorithms-1/atlas.md)
 
 ## social science
 
