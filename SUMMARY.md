@@ -19,6 +19,7 @@
   * [nlp](engineering/algorithms/nlp.md)
   * [audio](engineering/algorithms/audio.md)
   * [graph](engineering/algorithms/graph.md)
+  * [pharmacy](engineering/algorithms/pharmacy.md)
   * [optimization](engineering/algorithms/atlas.md)
 * [py](engineering/py.md)
 
