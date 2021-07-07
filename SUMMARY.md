@@ -29,6 +29,7 @@
 ## deductive <a id="t"></a>
 
 * [life](t/on-life-experience/README.md)
+  * [attitude](t/on-life-experience/attitude.md)
   * [self-actualization](t/on-life-experience/untitled.md)
 * [biz](t/biz/README.md)
   * [growth](t/biz/growth.md)
