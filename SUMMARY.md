@@ -6,6 +6,8 @@
 
 * [architecture](a/arch/README.md)
   * [py](a/arch/py.md)
+  * [frontend](a/arch/frontend/README.md)
+    * [布局](a/arch/frontend/bu-ju.md)
   * [Failure mode and Effects-analysis \(FMEA\)](a/arch/failure-mode-and-effects-analysis-fmea.md)
   * [安全认证](a/arch/security.md)
   * [video/image quality](a/arch/video-image-quality.md)
