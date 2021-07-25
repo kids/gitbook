@@ -6,6 +6,7 @@
 
 * [architecture](a/arch/README.md)
   * [py](a/arch/py.md)
+  * [contour](a/arch/contour.md)
   * [frontend](a/arch/frontend/README.md)
     * [布局](a/arch/frontend/bu-ju.md)
   * [Failure mode and Effects-analysis \(FMEA\)](a/arch/failure-mode-and-effects-analysis-fmea.md)
