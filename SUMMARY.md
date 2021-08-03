@@ -7,6 +7,7 @@
 * [architecture](a/arch/README.md)
   * [py](a/arch/py.md)
   * [contour等高线](a/arch/contour.md)
+  * [倾斜摄影\(3d重建\)](a/arch/qing-xie-she-ying-3d-zhong-jian.md)
   * [前端布局](a/arch/bu-ju.md)
   * [Failure mode and Effects-analysis \(FMEA\)](a/arch/failure-mode-and-effects-analysis-fmea.md)
   * [安全认证](a/arch/security.md)
