@@ -23,4 +23,6 @@ SHAP \([https://github.com/slundberg/shap](https://github.com/slundberg/shap)\)
 * 突然启动用户的特征
 * 间隔是否符合poisson/BG分布？参数化异常值、聚类分析
 * 各种可能调节的工具特征&lt;-业务侧
-* 
+* 用户关系特征？graph
+* 轨迹特征？平台refill/真实需求
+
