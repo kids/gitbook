@@ -18,6 +18,7 @@
   * [papernotes](a/alg/paper-notes/README.md)
     * [Learning Deep Networks from Noisy Labels with Dropout Regularization](a/alg/paper-notes/learning-deep-networks-from-noisy-labels-with-dropout-regularization.md)
     * [DECADE\_A\_Deep\_Metric\_Learning\_Model\_for\_Multivariate\_Time\_Series](a/alg/paper-notes/decade_a_deep_metric_learning_model_for_multivariate_time_series.md)
+  * [ltv&churn](a/alg/ltv-and-churn.md)
   * [astronomy](a/alg/astronomy.md)
   * [causal](a/alg/causal.md)
   * [series](a/alg/series-similarity.md)
