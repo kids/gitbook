@@ -4,6 +4,16 @@ description: 因果分析
 
 # causal
 
+两个问题：因果关系挖掘、因果效应估计
+
+结构因果模型（SCM，structured causal model，条件概率： ![](<../../.gitbook/assets/image (3).png>) Y是我们感兴趣的一组未知变量，E是一组我们观察到的已知变量，e是我们观察到的E的值。 最大后验概率（MAP）： ![](<../../.gitbook/assets/image (2).png>)，想要找到的是一组最有可能的Y值）
+
+潜在结果框架（反事实）
+
+独立因果机制
+
+分类：基础因果假设框架及推断、因果学习（因果结构学习、因果表示学习）、因果推断、应用系统
+
 ### A/B实验
 
 1、双边实验：用户侧与作者侧同时AB。
@@ -38,4 +48,6 @@ DML(Double Machine Learning)最终估计的是theta(x)，也就是实验对不�
 [https://github.com/uber/causalml](https://github.com/uber/causalml)
 
 SHAP方法 (Shapley Value, 事后因子分析)
+
+
 

@@ -1,12 +1,12 @@
 # py
 
-线程&进程  
-实现上和其他语言差别不大，都是系统调用：\_thread, os.fork\(\)    
+线程&进程\
+实现上和其他语言差别不大，都是系统调用：\_thread, os.fork()  \
 __仅仅差别在GIL限制\_thread在单核上运行
 
-classmethod&staticmethod  
-同样可以作为类的静态函数免实例化食用，区别前者带cls，后者不带  
-self&cls  
+classmethod\&staticmethod\
+同样可以作为类的静态函数免实例化食用，区别前者带cls，后者不带\
+self\&cls\
 当然cls也可以和self一样表示类实例，但一般cls用在以上场景作为类定义
 
 metaclass
@@ -36,11 +36,9 @@ class MyMeta(type):
         super().__init__(name, bases, ns)
 ```
 
-logging  
-import logging == import logging; logging.basicConfig\(\)   
-所以如果每个类**getLogger**\(\)不同的name相当于各自实例化一个自己的logger
+logging\
+import logging == import logging; logging.basicConfig() \
+所以如果每个类**getLogger**()不同的name相当于各自实例化一个自己的logger
 
-项目架构，抽象类  
-  
-
-
+项目架构，抽象类\
+\
